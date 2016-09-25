@@ -69,5 +69,5 @@ def plot( pols ):
 
 if __name__ == "__main__":
     #pols = test(200,4000) # for answering Exercise 2.1
-    pols = test(200,1000)
+    pols = test(2000,4000)
     plot(pols)
